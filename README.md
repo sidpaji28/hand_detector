@@ -1,0 +1,3 @@
+First time using opencv and mediapipe .
+First step in developing a gesture controlled game .
+Learning ML AND DL , more to come ....
